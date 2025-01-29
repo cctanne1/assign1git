@@ -1,4 +1,4 @@
 # assign1git
 Cade Tanner
-First commen
+First comment
 Figuring out why I committed as Obikas
